@@ -57,12 +57,12 @@ export default function Hero() {
                   </span>
                 </button>
               </a>
-              <button className="flex items-center justify-center gap-2 px-8 py-4 bg-transparent border-2 border-[#162e20] text-[#162e20] dark:text-white dark:border-white rounded-lg font-bold text-base hover:bg-[#162e20]/5 dark:hover:bg-white/10 transition-all">
+              {/* <button className="flex items-center justify-center gap-2 px-8 py-4 bg-transparent border-2 border-[#162e20] text-[#162e20] dark:text-white dark:border-white rounded-lg font-bold text-base hover:bg-[#162e20]/5 dark:hover:bg-white/10 transition-all">
                 <span>Lihat Produk</span>
                 <span className="material-symbols-outlined text-sm">
                   grid_view
                 </span>
-              </button>
+              </button> */}
             </div>
             {/* Trust Indicators */}
             <div className="mt-10 pt-8 border-t border-gray-200 dark:border-gray-700 grid grid-cols-3 gap-4">

@@ -36,14 +36,14 @@ function Product() {
               Solusi bata ringan (hebel) presisi tinggi dengan teknologi modern
               untuk konstruksi yang lebih cepat, hemat, dan tahan lama.
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
+            {/* <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
               <button className="flex items-center justify-center gap-2 bg-[#162e20] hover:bg-[#162e20]-light text-dark px-8 py-3.5 rounded-lg font-bold shadow-lg transition-all border-b-4 border-[#162b1e]">
                 <span>Lihat Katalog</span>
                 <span className="material-symbols-outlined text-sm">
                   arrow_forward
                 </span>
               </button>
-            </div>
+            </div> */}
           </div>
           {/* Hero Image with Arch Frame */}
           <div className="flex-1 w-full max-w-[500px]">
